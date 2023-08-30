@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "BeautifulAll",
-    "slug": "BeautifulAll",
+    "name": "BeautifulApp",
+    "slug": "BeautifulApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
